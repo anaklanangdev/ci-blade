@@ -1,0 +1,33 @@
+{
+    "name": "anaklanangdev/blade",
+    "type": "library",
+    "description": "Use Blade templates engine on codeigniter framework",
+    "keywords": ["blade", "templating", "template", "codeigniter"],
+    "homepage": "https://github.com/anaklanangdev/blade",
+    "license": "Apache-2.0",
+    "authors": [{
+        "name": "Mas Ranto",
+        "email": "anaklanangnet@gmail.com",
+        "homepage": "https://github.com/anaklanangdev",
+        "role": "Developer"
+    }],
+    "require": {
+        "illuminate/contracts": ">=5.5,<5.8",
+        "illuminate/events": ">=5.5,<5.8",
+        "illuminate/filesystem": ">=5.5,<5.8",
+        "illuminate/view": ">=5.5,<5.8",
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "anaklanangdev/object-intruder": "^0.3.0",
+        "maglnet/composer-require-checker": "^0.1.6",
+        "mockery/mockery": "^1.0",
+        "phpunit/phpunit": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {"anaklanangdev\\Laravel\\": "src/"}
+    },
+    "autoload-dev": {
+        "psr-4": {"anaklanangdev\\LaravelTests\\": "tests/"}
+    }
+}
