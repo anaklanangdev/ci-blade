@@ -17,7 +17,7 @@
   "repositories": [
     {
        "type": "library",
-       "url": "https://github.com/anaklanangdev/blade",
+       "url": "https://github.com/anaklanangdev/ci-blade"
     }
   ],
     "require": {
