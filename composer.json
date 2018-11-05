@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Use Blade templates engine on codeigniter framework",
     "keywords": ["blade", "templating", "template", "codeigniter"],
-    "homepage": "https://github.com/anaklanangdev/blade",
+    "homepage": "https://github.com/anaklanangdev/ci-blade",
     "license": "Apache-2.0",
     "authors": [{
         "name": "Mas Ranto",
