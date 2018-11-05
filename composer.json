@@ -1,5 +1,5 @@
 {
-    "name": "anaklanangdev/blade",
+    "name": "anaklanangdev/ci-blade",
     "type": "library",
     "description": "Use Blade templates engine on codeigniter framework",
     "keywords": ["blade", "templating", "template", "codeigniter"],
