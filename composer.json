@@ -19,7 +19,7 @@
        "type": "vcs",
        "url": "https://github.com/anaklanangdev/ci-blade",
     }
-  ]
+  ],
     "require": {
 		"anaklanangdev/object-intruder":"dev-master@dev",
         "illuminate/contracts": ">=5.5,<5.8",
