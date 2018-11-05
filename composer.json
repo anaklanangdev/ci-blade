@@ -16,8 +16,8 @@
   },
   "repositories": [
     {
-       "type": "vcs",
-       "url": "https://github.com/anaklanangdev/ci-blade",
+       "type": "library",
+       "url": "https://github.com/anaklanangdev/ci-blade"
     }
   ],
     "require": {
