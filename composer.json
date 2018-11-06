@@ -21,7 +21,7 @@
     }
   ],
     "require": {
-		"anaklanangdev/object-intruder":"dev-master@dev",
+		"anaklanangdev/object-intruder",
         "illuminate/contracts": ">=5.5,<5.8",
         "illuminate/events": ">=5.5,<5.8",
         "illuminate/filesystem": ">=5.5,<5.8",
