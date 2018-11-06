@@ -11,15 +11,7 @@
         "homepage": "https://github.com/anaklanangdev",
         "role": "Developer"
     }],
-	"require": {
-    "anaklanangdev/ci-blade":"dev-master@dev"
-  },
-  "repositories": [
-    {
-       "type": "library",
-       "url": "https://github.com/anaklanangdev/ci-blade"
-    }
-  ],
+	
     "require": {
 		
         "illuminate/contracts": ">=5.5,<5.8",
